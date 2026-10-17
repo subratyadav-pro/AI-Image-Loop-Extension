@@ -1,0 +1,15 @@
+# Exclude PDF files
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
